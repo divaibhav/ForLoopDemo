@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// find the first 10 prime numbers
 public class PrimeNumber {
     public static void main(String[] args) {
         //WAP to check whether the given number is prime number
